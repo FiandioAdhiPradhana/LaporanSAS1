@@ -4,6 +4,7 @@
 
 Pastikan adaptop bridge dan setting ip static  
 ![image](https://user-images.githubusercontent.com/93086665/138603980-77f04753-489c-4ac3-9368-27eb1b3a84a4.png)
+
 Cek lxc yang sudah ada di praktikum sebelumnya
 ![image](https://user-images.githubusercontent.com/93086665/138603989-a0159107-5a9f-431e-89d5-ac16d855f03a.png)
 
@@ -11,24 +12,20 @@ Cek lxc yang sudah ada di praktikum sebelumnya
 NOMOR 1
 
 Ubah Ubuntu 5.6 menjadi Ubuntu landing
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image003.png)
-
+![image](https://user-images.githubusercontent.com/93086665/138604002-c54c644d-205a-40af-b3bf-bc6c9e1db407.png)
  
 
 Start lxc php landing dan php 7
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image004.png)
+![image](https://user-images.githubusercontent.com/93086665/138604007-320c4ac2-cace-4d57-93fe-a5a3992f30d3.png)
 
  
 
 Masuk ke Ubuntu landing
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image005.png)
-
+![image](https://user-images.githubusercontent.com/93086665/138604013-6a508f2d-7600-487c-bfe8-ddebbb793013.png)
 Ubah ip Ubuntu landing
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image006.png)
+![image](https://user-images.githubusercontent.com/93086665/138604017-60069aba-cd2c-4997-96fd-3c5c5f15a215.png)
+
 
  
 
