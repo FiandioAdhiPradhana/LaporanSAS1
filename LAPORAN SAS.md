@@ -6,7 +6,7 @@
 
 Cek lxc yang sudah ada di praktikum sebelumnya
 ![image](https://user-images.githubusercontent.com/93086665/138603980-77f04753-489c-4ac3-9368-27eb1b3a84a4.png)
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png)
+
 
 NOMOR 1
 
