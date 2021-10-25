@@ -70,57 +70,45 @@ Nomor 3
 
 Start lxc debian 
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image015.png)
+![image](https://user-images.githubusercontent.com/93086665/138604053-f55af356-5125-4f43-8ff3-8abc771e7248.png)
 
 Install nginx dan nginx-extras
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image016.png)
+![image](https://user-images.githubusercontent.com/93086665/138604054-fbc59ba2-41cd-4c7b-8475-1d615a376e4d.png)
 
 Install nano dan net-tools dan curl
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image017.png)
+![image](https://user-images.githubusercontent.com/93086665/138604061-d1992fe5-681b-4932-8462-505917b36ac1.png)
 
  
 
 Setting ip static debian php
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image018.png)
+ ![image](https://user-images.githubusercontent.com/93086665/138604063-29e547cf-ebfd-43dd-96b5-8b41effc07b2.png)
 
  
-
 Restrart pengaturan dan cek ip
 
- 
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image019.png)
-
-
-
- 
+![image](https://user-images.githubusercontent.com/93086665/138604076-dbda8d2c-fee7-48e4-8aa1-fb5afd1bd89a.png)
 
 Setting nginx
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image020.png)
+![image](https://user-images.githubusercontent.com/93086665/138604081-b7c15c8e-3268-4a1b-9d08-47069b540fa7.png)
 
+![image](https://user-images.githubusercontent.com/93086665/138604085-ec56fa75-f94e-45e2-8814-44e521bca336.png)
+
+![image](https://user-images.githubusercontent.com/93086665/138604088-ba0686d5-cdb4-4290-9916-09ec92f48bb1.png)
  
+![image](https://user-images.githubusercontent.com/93086665/138604092-8426aa3c-4089-4f19-8b2a-0c5392265516.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image021.png)
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image020.png)
-
+![image](https://user-images.githubusercontent.com/93086665/138604096-2871e04f-aa50-4747-82c9-a5d71f2c7d13.png)
  
+![image](https://user-images.githubusercontent.com/93086665/138604100-46fbb83b-0e75-41a6-a002-48c961154e63.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image022.png)
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image024.png)
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image025.png)
-
- 
 
 Test dengan curl
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image026.png)
+![image](https://user-images.githubusercontent.com/93086665/138604108-71af9d12-b8fd-4a76-8e86-0304bf2ce8d9.png)
 
 Exit dari debian php
 
