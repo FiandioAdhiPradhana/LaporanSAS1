@@ -118,23 +118,22 @@ NOMER 4
 
 Masuk Ubuntu landing dan setting nginx
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image027.png)
+![image](https://user-images.githubusercontent.com/93086665/138604113-89b8bfda-859b-421b-bb4a-c098dc7a339d.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image021.png)
+![image](https://user-images.githubusercontent.com/93086665/138604117-fe93e300-2e40-4fd4-af54-4a498a3e825a.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image028.png)
+![image](https://user-images.githubusercontent.com/93086665/138604119-a6e2a528-6057-42ad-8948-1132e44f0ee4.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image022.png)
+![image](https://user-images.githubusercontent.com/93086665/138604122-dd700c0c-1122-4d4d-99e0-d332e5f3fdcb.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image029.png)
+![image](https://user-images.githubusercontent.com/93086665/138604126-0499a64b-06c3-4703-9025-dff381d0670a.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image025.png)
-
+![image](https://user-images.githubusercontent.com/93086665/138604128-62ee5834-3e70-44e8-b6ca-2d984b9e9a2f.png)
  
 
 Test dengan curl
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image026.png)
+![image](https://user-images.githubusercontent.com/93086665/138604132-be6d702e-87c2-473c-94d3-d96055c17103.png)
 
 Exit Ubuntu landing
 
@@ -142,17 +141,17 @@ NOMER 5
 
 Stop Ubuntu landing dan cek
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image030.png)
+![image](https://user-images.githubusercontent.com/93086665/138604137-e2f19460-879c-488d-8cc8-20e25b429d9b.png)
 
  
 
 Masuk ke direktori/ var/ lib/lxc dan cek ada direktori apa aja
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image031.png)
+![image](https://user-images.githubusercontent.com/93086665/138604139-139a6306-522d-4120-94fd-a63aa93bf9ba.png)
 
 Karena akan menggunakan auto start pada Ubuntu landing, maka tambahkan config seperti dibawah
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image033.png)
+![image](https://user-images.githubusercontent.com/93086665/138604142-5c4952c3-8709-4c14-a89d-019a2d899939.png)
 
 Cek auto start dengan cara reboot dahulu
 
@@ -160,68 +159,24 @@ NOMER 6
 
 Setup nginx pada vm local
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image034.png)
+![image](https://user-images.githubusercontent.com/93086665/138604146-f8a2a39c-4503-4c0e-975d-c4f28e22c5c2.png)
 
- 
+![image](https://user-images.githubusercontent.com/93086665/138604151-6c5dd80e-f19d-4bc1-8007-189ad3994c9b.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image035.png)
+![image](https://user-images.githubusercontent.com/93086665/138604154-0209e212-e2af-44a1-8643-b0056c2eb34f.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image036.png)
+![image](https://user-images.githubusercontent.com/93086665/138604156-9994daf4-5221-47bb-87bc-3aa427908754.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image037.png)
+![image](https://user-images.githubusercontent.com/93086665/138604157-3fcd23b1-67c8-44bf-9bb0-130836e46d6e.png)
 
- 
+![image](https://user-images.githubusercontent.com/93086665/138604160-7cbe75ee-24af-4f37-9d5c-db3e3fe8dc11.png)
 
- 
+![image](https://user-images.githubusercontent.com/93086665/138604162-b65b2355-d4e6-4cb5-a044-a9c00e423368.png)
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image039.png)
+![image](https://user-images.githubusercontent.com/93086665/138604164-366a5dc7-5c37-4d8d-99a2-702820b08689.png)
 
- 
+![image](https://user-images.githubusercontent.com/93086665/138604167-945cf7b2-882c-4409-850c-e10fc655173c.png) 
 
- 
+![image](https://user-images.githubusercontent.com/93086665/138604170-0520ca99-5212-4f4d-aceb-47647f0e0cbc.png)
 
- 
-
- 
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image040.png)
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image042.png)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image026.png)
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image044.png)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image045.png)
-
- 
-
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image047.png)
+![image](https://user-images.githubusercontent.com/93086665/138604173-0e0eec8e-3842-4479-a777-1cb6ad065202.png)
