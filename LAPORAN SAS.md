@@ -19,6 +19,7 @@ Ubah Ubuntu 5.6 menjadi Ubuntu landing
  
 
 Start lxc php landing dan php 7
+
 ![image](https://user-images.githubusercontent.com/93086665/138604007-320c4ac2-cace-4d57-93fe-a5a3992f30d3.png)
 
  
@@ -36,13 +37,13 @@ Ubah ip Ubuntu landing
 
 Restart ip lalu cek ip menggunakan ifconfig
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image007.png)
+![image](https://user-images.githubusercontent.com/93086665/138604021-5c3b80b1-5f57-4ab4-ab2f-3013403b47ed.png)
 
  
 
 Keluar dari Ubuntu landing
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image008.png)
+![image](https://user-images.githubusercontent.com/93086665/138604031-21ca1073-3b31-4f69-a47d-f1c231246250.png)
 
  
 
@@ -50,21 +51,20 @@ NOMOR 2
 
 Cek koneksi internet dengan ping google.com / 8.8.8.8/ 1.1.1.1
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image010.png)
+![image](https://user-images.githubusercontent.com/93086665/138604039-81c26cba-337f-4d26-a475-576c24506bb9.png)
 
 Update respositori debian di nano /etc/apt.sources.list
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image011.png)
+![image](https://user-images.githubusercontent.com/93086665/138604042-6bae1769-f99f-422a-a8d0-9cfeae336ad4.png)
 
 Install lxc debian
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image013.jpg)
+ ![image](https://user-images.githubusercontent.com/93086665/138604047-92e8bcf0-d0cd-4561-a5b4-b8dfc8a94c67.png)
 
- 
 
 Cek lcx debian
 
-![img](file:///C:\Users\Dewata\AppData\Local\Temp\msohtmlclip1\01\clip_image014.png)
+![image](https://user-images.githubusercontent.com/93086665/138604049-a0dfc2c5-0e0d-46b7-ad6b-32ebf7898cc8.png)
 
 Nomor 3 
 
