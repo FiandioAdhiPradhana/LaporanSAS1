@@ -14,6 +14,7 @@ Cek lxc yang sudah ada di praktikum sebelumnya
 NOMOR 1
 
 Ubah Ubuntu 5.6 menjadi Ubuntu landing
+
 ![image](https://user-images.githubusercontent.com/93086665/138604002-c54c644d-205a-40af-b3bf-bc6c9e1db407.png)
  
 
