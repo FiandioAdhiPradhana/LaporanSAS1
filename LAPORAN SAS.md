@@ -3,7 +3,7 @@
 
 **From Group 11**
 
-**Reksa Aldian Rahmandy Putra 1202192048 || Fiandio Adhi Pradana 1202192034**
+**Reksa Aldian Rahmandy Putra 1202192048 || Fiandio Adhi Pradhana 1202192034**
 
 ---------
 **Case Study**
